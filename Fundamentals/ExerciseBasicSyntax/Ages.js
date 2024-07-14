@@ -2,7 +2,7 @@ function checkAges(age) {
 
     if(0 <= age && age <= 2) {
         console.log("baby");
-    } else if(3 <= age && age <= 14) {
+    } else if(3 <= age && age <= 13) {
         console.log("child");
     } else if(14 <= age && age <= 19) {
         console.log("teenager");
